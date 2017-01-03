@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- <string-array name="menu_item_left">
+        <item>@string/how_to_use_app</item>
+        <item>@string/Share_Application</item>
+        <item>@string/faq</item>
+        <item>@string/About_Healthcare_Saving_Card</item>
+        <item>@string/About_National_Drug_Card</item>
+    </string-array> -->
+    
+    <string-array name="array_string_faqs_questions">
+        <item>How does the FluffyRx App work?</item>
+        <item>How can I find the lowest prices for my pets medication?</item>
+        <item>How do I ask for a written prescription for my pet?</item>
+        <item>Who can benefit from this pet card?</item>
+        <item>How much will I save with the FluffyRx App?</item>
+        <item>Is there an enrollment or application fee?</item>
+        <item>Will my pet’s medical information be kept private?</item>
+        <item>Personal Information.</item>
+        <item>Please Note: This is NOT PET insurance, it’s a Free pet medication discount program.</item>
+        <item>Notice of HIPAA Compliance</item>
+        <item>What is the Human Card and how does it work?</item>
+        <item>Who can benefit from the human card?</item>
+        <item>What pet medications are covered?</item>
+        <item>Pet prices vary among participating pharmacies?</item>
+        <item>Why don’t all pharmacies accept the pet card?</item>
+        
+        <item>What if my pharmacist said the pet card would not save me any money?</item>
+        <item>Can I use FluffyRx in any US State and Puerto Rico? </item>
+        <item>What if my pharmacy will not accept FluffyRx Prescription Drug Card?</item>
+        <item>Will I ever pay more using the card than I would without the card?</item>
+        <item>How is pricing for FluffyRx prescription drugs determined?</item>
+        <item>Are there any restrictions because of pet’s age or current medical conditions?</item>
+        <item>Do I have to pay at the time of service?</item>
+        <item>Can I use FluffyRx if I have pet insurance?</item>
+        <item>Can I use the FluffyRx if I am not a legal citizen of the United States? </item>
+        <item>How can my organization work with FluffyRx?</item>
+    </string-array>
+    <string-array name="array_string_faqs_questions_items">
+        <item>With your pets prescription in hand, load the FluffyRx app on your device, and show it to your pharmacist. 
+            They will enter the codes into their computer system which will give you the discount. This program covers all your pets no matter their size.</item>
+        <item>Use the Price Search engine to find the lowest prices for your pets medication closest to your zip code location.</item>
+        <item>Ask the veterinarian for a written prescription while you are in the consultation room with your pet. 
+            This will let the vet know that you would like a written prescription that you can take to your local pharmacy.</item>
+        <item> \n
+            • All pets in your household \n
+		• Farm Animals \n
+		• Animal hospitals \n
+		• Pet Adoption Organizations \n
+		• Pet Rescue Organizations
+</item>
+        <item>Savings up to 85% on your pets prescribed medication.</item>
+        <item>No, there is no enrollment or application fee required to obtain or use the Free pet program.</item>
+        <item>Yes, FluffyRx has no access to private medical information. Only the providers have that information.</item>
+        <item>We do not collect or sell your personal information.</item>
+        <item>Discounts are only available at participating pharmacies. 
+            By using this card you agree to pay the entire prescription cost less any applicable discount. 
+            Savings may vary by drug and by pharmacy. 
+            The program administrator may obtain fees or rebates from manufacturers and/or pharmacies based on your prescription drug purchases. 
+            \n These fees or rebates may be retained by the program administrator or shared with you and/or your pharmacy. 
+            Prescriptions purchased through this program will not be eligible for reimbursement through Medicaid, Medicare, or any other government program. 
+            This program does not guarantee the quality of the services or products offered by individual providers. </item>
+        <item>Please read the notice of HIPAA Privacy Practices \n https://nationaldrugcard.com/ndc201/hipaa</item>
+        <item>If you are uninsured or underinsured, you can also benefit from the prescription savings by using the Human Card. 
+            You can save up to 85% on your Brand-Name and Generic medications. 
+            Just take your prescription with the app to a participating pharmacy and provide both to your pharmacist to save.</item>
+        <item>\n
+        • Those with no insurance including students \n \n
+		• Those who may have insurance but have limitations like high deductibles, non-covered drugs, \n high copayments, or caps on their benefits \n \n
+		• Seniors who fall into the donut hole of their Medicare Part D \n \n
+		• Employees who are in their waiting period for healthcare coverage \n \n
+		• Employees who cannot afford COBRA payments when they lose their job \n \n
+		• Employees who cannot afford to cover dependents \n \n
+		• The Undocumented and Temporary Resident \n
+</item>
+        <item>Not every pharmacy is equipped to provide every animal medication. 
+            Please use the search engine to check what pharmacy can provide the medication for your pet.</item>
+        <item>Industry standards determine the discounted rate for prescription medications. 
+            This means in most instances, all participating pharmacies will offer the same low price. \n These rates are updated at least once a week, so prices may vary depending on when you go to the pharmacy. From time-to-time, pharmacies may offer special sale prices for a limited time on selected drugs. 
+           \n These sale prices may be lower than the scheduled discount rates, 
+            in which case the card holder will pay only the lowered sales price. We always encourage comparison shopping.</item>
+        <item>All chain pharmacies and most independent pharmacies have been given equal opportunity to serve you via this program. 
+            Pharmacies are required to offer very deep discounts and assist in performing some complicated drug management procedures on behalf of our card holders, and some pharmacies simply refuse. \n However, that gives you the confidence of knowing that pharmacies participating have your best interests in mind and that there are many pharmacies in your regional area accept your card.</item>
+        <item>As a member, you are entitled to your benefit. Your pharmacist will not know what the card savings will be until the prescription is sent for pricing through the pharmacist\'s computer. If your Pharmacist does not want to comply with the program, you should consider going to another nearby pharmacy that honors the pet card.
+</item>
+        <item>Yes, if the pharmacy is contracted to accept the card.</item>
+        <item>All participating pharmacies will accept Fluffy Rx Prescription Drug Card. If you are denied the use of your card at a participating pharmacy, call our 24 hour pharmacy help desk at (800) 760-7616 to resolve the service issue. \n If your pharmacy is not participating in this program, 
+            and they would like to do so, please have them visit the website link below and 
+            follow the instructions on the page: https://www.envisionrx.com/pharmacies/pharmenroll.aspx</item>
+        <item>No, cardholders will always pay the lower of FluffyRx Prescription Drug Card contract price or the pharmacy’s usual and customary price.</item>
+        <item>FluffyRx Prescription Drug Card provides savings on both generic and name brand prescriptions. It allows for unlimited use by the participant and his/her family. \n Prescription drug costs 
+            vary by pharmacy due to differences in both retail and wholesale prices for their products. When the pharmacy’s usual and customary charge (retail price) is lower than the FluffyRx card discounted price, participants will always pay the lower price.</item>
+        <item>There are no restrictions due to age or any health conditions pet may have.</item>
+        <item>Yes, you must pay the provider once you’ve received the prescription. Participating pharmacies have an agreement that they will not bill the participant for the difference between their usual fee and the reduced fee.</item>
+        <item>Yes, but only in the following circumstances and you should ask your pharmacist whether using the FluffyRx would save you money: \n \n
+•	The pet drug is not covered under your insurance plan. \n \n
+•	You have a cap on coverage that has been exceeded such that all future prescription costs in the plan year must be paid at 100% \n \n
+•	You have a high annual deductible that you don’t believe you will reach given a low monthly prescription drug expense (e.g. $500 deductible with a monthly drug cost of $15) \n \n
+•	You have a high co-pay which exceeds the cost of the prescription if you used the FluffyRx card (e.g. $10 co-pay for all prescriptions but a drug that is $7 when the card is used vs. insurance)
+</item>
+        <item>Yes, FluffyRx does not need any personal information about you except your name.</item>
+        <item>Seek partners who want to provide this program to their communities. Many Medical Facilities, Government Agencies, Non-Profits, Charities, 
+            and Private Sponsors have already assisted in saving millions of dollars with this program nationwide. \n Please contact us through this website to see you can help. \n http://www.fluffyrx.com/ </item>
+    </string-array>
+
+    <string name="app_name">FluffyRx</string>
+    <string name="desp">desp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="Use_Free_Card">Use Free Card</string>
+    <string name="Search_Prices">Search Prices</string>
+    <string name="pet_fundraising_platform">Pet Fundraising Platform</string>
+    <string name="Free_RX_Card">Free Rx Card</string>
+    <string name="how_to_use_app">How to Use App</string>
+    <string name="how_to_use_digital_rx_card">How to Use Digital Rx Card</string>
+    <string name="Share_Application">Share Application</string>
+    <string name="faq">FAQs</string>
+    <string name="links">Links</string>
+    <string name="About_Healthcare_Saving_Card">About Healthcare Saving Club</string>
+    <string name="share_message"><u>Save up to 85% on your pet medications with the FluffyRx app.
+         You can share this app with your friends and family to help them save as well!
+          Download the app on iTunes and Google Play. http://fluffyrx.com/download</u></string>
+    <string name="Prices_And_Locations">Prices and Locations</string>
+    <string name="enter_Group_ID">Enter Group ID :</string>
+    <string name="Group_ID">Group ID</string>
+    <string name="Group_text">Use the ID provided by your organization to activate the Free app. Your organization will benefit each time you use the GroupRx app at your local pharmacy.</string>
+    <string name="activate_app">Activate App</string>
+    <string name="Group_text_2">If you do not have a Group ID, press the button below to use the Free GroupRx app at your local pharmacy to save on your medications.</string>
+    <string name="i_dont_have_group_id">I dont have a Group ID</string>
+    <string name="Select_your_Card">Select Your Card</string>
+    <string name="use_rx_card">Use Rx Card</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="fundraising_link_text">Please visit our website and view our 1 minute video that explains our Free Fundraising Platform that can be used for your pet organization.</string>
+    <string name="use_rx_card_free_10_85_1">Save 10% - 85% on Brand-Name and Generics</string>
+    <string name="fundraising_easy">Make Pet Fundraising and Donations Easy!</string>
+    <string name="who_fundraising_title">Who can raise funds with this Free Pet app?</string>
+    <string name="who_fundraising_text">\n •	Pet Organizations and Associations \n
+•	Pet Services \n
+•	Spay/Neuter \n
+•	Veterinarian \n
+•	Pet Non-Profits and Fundraising \n
+•	Animal Rescue and Charity \n
+•	Animal Kennels \n
+•	Animal Hospitals \n 
+•	Pet Rescue and Rehab \n
+•	Rescue Shelters \n
+•	Pet Lost and Found \n
+•	Adoptions \n
+•	Pet Emergency Care \n
+•	Pet Sanctuary \n
+•	Pet Stores and Clinics \n
+•	Grooming and Pet Sitting \n
+•	Pet Surgical Aid
+        
+    </string>
+    <string name="fundraising_easy_text">As pet medication costs spiral out of control, what is your organization doing to help your members save money? With this New GroupRx/FluffyRx app, you can help your members save money while raising funds for your cause. \n \n
+The GroupRx/FluffyRx app offers your members the opportunity to save up to 85% on their Pet and Human medications right from their mobile devices.The more your members save on their medications, the more funds your organization receives towards its cause. \n \n
+Any group or pet organization can join GroupRx/FluffyRx and its absolutely FREE. When you join GroupRx/FluffyRx, our team customizes the iPhone and Android apps with your colors and logos. We can also include links to your website, social media, and custom promotional urls within the apps. We also provide a branded landing webpage for you to use for email and web marketing. \n \n
+ 
+Have a donation page on your website? Connect it to the GroupRx/FluffyRx app to receive donations from mobile devices. \n \n
+If you are part of an organization interested in using GroupRx/FluffyRx as a fundraising solution, \n
+contact 1-800-233-7597 
+        
+    </string>
+    <string name="about_free_pet_drug_card">About the Free Pet Drug Card</string>
+    <string name="pet_card_info">It comes as a surprise to pet owners to find out that they can fill many of their veterinarian medications at a local pharmacy. 
+        You can save up to 85% on your Brand-Name and Generic pet medications. 
+        While some drugs are for veterinarian use only, many are the exact same drugs used in human medicine, or close equivalents. 
+        The price difference between the human and veterinary medications can be substantial. 
+        \n \nAsk the veterinarian for a written prescription while you are in the consultation room with your pet. 
+        With your pets prescription in hand, load the Free FluffyRx app on your device, and show it to your pharmacist. 
+        They will enter the codes into their computer system which will give you the discount. 
+        This program covers all your pets no matter their size. 
+        \n \nTHIS IS NOT PET INSURANCE - FREE DISCOUNT PET CARD</string>
+<string name="about_human_drug_card">About the Free Human Drug Card</string>
+<string name="human_card_info">If you are uninsured or underinsured, you can also benefit from the prescription savings by using the Human Card. 
+    You can save up to 85% on your Brand-Name and Generic medications. 
+    Simply load the Human Card on your device and present it to your pharmacist when purchasing your medication. 
+    \n \nThis card app is pre-activated and never expires. Use it over and over. The card app covers all household people. 
+    Use the price search tool to find the lowest medication prices in your area. 
+    \n \nTHIS IS NOT INSURANCE - FREE DISCOUNT DRUG CARD</string>
+    <string name="back">Back</string>
+    <string name="Donate">Donate</string>
+    <string name="About_National_Drug_Card">About National Drug Card</string>
+    <string name="About_National_Drug_Card_Content">Founded in 2005, National Drug Card is a Washington, D.C. based organization that offers
+        	 a free discount drug card to millions of people across the United States and its territories allowing 
+        	 them save money on their prescription medications. Anyone is eligible for the card, but it especially benefits 
+        	 those with no health insurance, senior citizens, small business owners, families, college students, the unemployed 
+        	 and the undocumented. Additionally, individuals who have prescription benefits can use NDC to receive discounts 
+        	 on medications that are not covered by their insurance plan or those seniors who Medicare Part D, you may be at 
+        	 risk of falling into the prescription drug coverage gap, or doughnut hole.</string>
+    <string name="NDC_Savings_Club_Page">NDC Savings Club Page</string>
+    <string name="About_NDC_Content">National Drug Card recently launched the nation’s first Healthcare Savings Club.
+         		This new program offers more than 75 types of savings and preferred pricing, with discounts on medical,
+         		 dental, vision, labs, podiatry, diabetes, hearing, legal, travel, shopping, entertainment and more.
+         		  We also have sections for holistic &amp; natural treatments as well as resources for seniors, men and women.
+         		   The NDC Savings Club’s mission is to enhance the quality of life for families, groups, businesses,
+         		    non-profits and organizations by providing a free online directory dedicated 
+         		    to helping them cut their healthcare costs.</string>
+
+    <string name="PLS_SELECT_GROUPID">Please Insert GroupID</string>
+
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+    android:fillViewport="true">
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/titleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pet_fundraising_platform"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:textSize="15sp"
+        />
+    
+    <TextView 
+        android:id="@+id/pageText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/fundraising_link_text"
+        android:layout_margin="10dp"
+        />
+    <Button 
+        android:id="@+id/visitFluffyButton"
+        android:layout_width="match_parent"
+        android:background="@drawable/about_selector_button"
+        android:layout_height="wrap_content"
+        android:text="@string/visit_website"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"
+        android:padding="10dp"
+        />
+    
+    <TextView 
+        android:id="@+id/fundraisingText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fundraising_easy"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginTop="15dp"
+        android:gravity="center_horizontal"
+        />
+    <TextView 
+        android:id="@+id/funraisingPageText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fundraising_easy_text"
+        android:layout_margin="10dp"
+        />
+    <TextView 
+        android:id="@+id/whoFundraisingText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="@string/who_fundraising_title"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:gravity="center_horizontal"
+        />
+    <TextView 
+        android:id="@+id/whoFunraisingPageText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/who_fundraising_text"
+        android:layout_marginBottom="15dp"
+        />
+</LinearLayout>
+</ScrollView>
